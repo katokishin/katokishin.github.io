@@ -11,12 +11,12 @@ navbar_entries:
 project_entries:
   - title: Paddle
     url: https://paddle.bid
-    desc: Auction engine on the Lightning Network with an efficient deposit system using hodl invoices. Company project @ TS KK.
+    desc: Auction engine on the Lightning Network with an efficient deposit system using hodl invoices.
     highlight: Bitcoin
 
   - title: Blocksat Reader
     url: https://blocksat.info
-    desc: Read messages received from space via Blockstream Satellite. Company project @ TS KK.
+    desc: Read messages received from space via Blockstream Satellite.
     highlight: Space
 
   - title: Lappsnet Wallet
@@ -26,7 +26,7 @@ project_entries:
 
   - title: Opendime Tools
     url: https://trustless-services.com/opendime-pubkey.html
-    desc: Tools for utilizing your Opendime to its fullest. More functions in development. Company project @ TS KK.
+    desc: Tools for utilizing your Opendime to its fullest. More functions in development.
     highlight: Bitcoin
 
   - title: BSCCO
