@@ -19,6 +19,11 @@ project_entries:
     desc: Read messages received from space via Blockstream Satellite. Company project @ TS KK.
     highlight: Space
 
+  - title: Lappsnet Wallet
+    url: https://wallet.lappsnet.io
+    desc: Biometric auth wallet in the browser, used for trustful smart contracting paid for using the Lightning Network.
+    highlight: Crypto
+
   - title: Opendime Tools
     url: https://trustless-services.com/opendime-pubkey.html
     desc: Tools for utilizing your Opendime to its fullest. More functions in development. Company project @ TS KK.
